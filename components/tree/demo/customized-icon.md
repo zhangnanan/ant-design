@@ -45,7 +45,7 @@ const treeData = [
 
 ReactDOM.render(
   <Tree
-    showIcon
+<!--     showIcon -->
     defaultExpandAll
     defaultSelectedKeys={['0-0-0']}
     switcherIcon={<DownOutlined />}
